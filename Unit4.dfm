@@ -191,11 +191,11 @@ object Form4: TForm4
     OnClick = Button7Click
   end
   object Button8: TButton
-    Left = 409
-    Top = 230
-    Width = 26
+    Left = 359
+    Top = 261
+    Width = 50
     Height = 25
-    Caption = 'C'
+    Caption = 'Clear'
     TabOrder = 9
     OnClick = Button8Click
   end

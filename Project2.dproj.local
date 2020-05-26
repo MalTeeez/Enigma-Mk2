@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.775,C:\Users\mc\Documents\Embarcadero\Studio\Projekte\Unit4.pas=D:\enigma\Unit4.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.870,=C:\Users\mc\Documents\Embarcadero\Studio\Projekte\Unit4.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.775,C:\Users\mc\Documents\Embarcadero\Studio\Projekte\Unit4.dfm=D:\enigma\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,D:\enigma\Unit4.dfm=C:\Users\mc\Documents\Embarcadero\Studio\Projekte\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,D:\enigma\Unit4.pas=C:\Users\mc\Documents\Embarcadero\Studio\Projekte\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,D:\enigma\Project2.dproj=C:\Users\mc\Documents\Embarcadero\Studio\Projekte\Project2.dproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.248,=D:\Delphi Projekte\enigma\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.566,C:\Users\mc\Documents\Embarcadero\Studio\Projekte\Project2.dproj=D:\enigma\Project2.dproj</Transaction>
   </Transactions>
 </BorlandProject>
