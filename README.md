@@ -1,3 +1,2 @@
 # Enigma-Mk2
-Hello!
-
+Hello! This is a Military Level End-To-End Encryption Program
